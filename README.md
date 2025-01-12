@@ -11,7 +11,7 @@
   - Active Directory Bulk User Creation
   - FIM (File Integrity Monitor)
 
-<h2>👨‍💻 Network Infrastructure Projects:</h2>
+<h2>🔌 Networking Projects:</h2>
 
   - <b>Enterprise SOHO Network Design & Implementation<b/>
 
