@@ -1,5 +1,14 @@
 <h1>Hi, I'm Nwankwo (Won-qua)! <br/><a </h1>
 
+
+<h2>🔌 Networking Projects:</h2>
+
+
+
+
+  - <b>Enterprise SOHO Network Design & Implementation<b/>
+
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
@@ -11,9 +20,10 @@
   - Active Directory Bulk User Creation
   - FIM (File Integrity Monitor)
 
-<h2>🔌 Networking Projects:</h2>
 
-  - <b>Enterprise SOHO Network Design & Implementation<b/>
+
+
+
 
 <h2> 🤳 Connect with me:</h2>
 
