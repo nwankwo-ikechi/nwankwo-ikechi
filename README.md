@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nwankwo (Won-qua)! <br/></h1>
+<h1>Welcome! Call me Nwankwo (Won-quh)! "Wonk" for short. <br/></h1>
 
 
 <h2>🔌 Networking Projects:</h2>
