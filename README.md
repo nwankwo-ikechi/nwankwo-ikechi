@@ -1,20 +1,28 @@
 <h1>Welcome! You can call me "Wonk" for short. <br/></h1>
 
 
-<h2>🔌 Networking Projects:</h2>
-- <b>Enterprise SOHO Network Design & Implementation<b/>
+## 🛠️ Projects
+### **🔌 Enterprise SOHO Network Design & Implementation**
+- Designed a scalable SOHO network topology with VLANs, routing, and security controls
+- Configured VLANs, routing, and basic security policies using Cisco Packet Tracer
+- Created network diagrams detailing IP schemes, subnets, and device configurations
 
+---
 
-<h2>👨‍💻 Software Development Projects:</h2>
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  -  Practicing DS & Algos in Python
-- <b>Python</b>
-  - Package Delivery Application (Datastructures and Algorithms Demo)
-- <b>PowerShell</b>
-  - JWipe (Disk Wiping Utility)
-  - Active Directory Bulk User Creation
-  - FIM (File Integrity Monitor)
+### **💻 PowerShell Automation Projects**
+#### **👥 Active Directory Bulk User Creation**
+- Automated creation of multiple AD user accounts with pre-defined attributes (OU placement, group memberships)
+- Utilied CSV import for scalable user provisioning in lab environments
 
+#### **📁 JWipe (Disk Wiping Utility)**
+- Developed a PowerShell script to securely wipe disks following DoD standards for reimaging or decommissioning
+- Includes options for single-pass and multi-pass wipes with verification logging
+
+#### **🛡️ FIM (File Integrity Monitor)**
+- Scripted a file integrity monitoring tool in PowerShell to track changes in critical directories
+- Generates daily reports of file additions, deletions, and modifications for security auditing
+
+---
 
 
 
