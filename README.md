@@ -1,14 +1,11 @@
 <h1>Welcome! You can call me "Wonk" for short. <br/></h1>
 
-
 ## 🛠️ Projects
-### **🔌 Enterprise SOHO Network Design & Implementation**
+#### **🔌 Enterprise SOHO Network Design & Implementation**
 - Designed a scalable SOHO network topology with VLANs, routing, and security controls
 - Configured VLANs, routing, and basic security policies using Cisco Packet Tracer
 - Created network diagrams detailing IP schemes, subnets, and device configurations
 
-
-### **💻 PowerShell Automation Projects**
 #### **👥 Active Directory Bulk User Creation**
 - Automated creation of multiple AD user accounts with pre-defined attributes (OU placement, group memberships)
 - Utilied CSV import for scalable user provisioning in lab environments
@@ -20,11 +17,7 @@
 #### **🛡️ FIM (File Integrity Monitor)**
 - Scripted a file integrity monitoring tool in PowerShell to track changes in critical directories
 - Generates daily reports of file additions, deletions, and modifications for security auditing
-
 ---
-
-
-
 
 
 <h2> 🤳 Connect with me:</h2>
