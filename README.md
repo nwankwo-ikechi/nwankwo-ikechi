@@ -7,7 +7,6 @@
 - Configured VLANs, routing, and basic security policies using Cisco Packet Tracer
 - Created network diagrams detailing IP schemes, subnets, and device configurations
 
----
 
 ### **💻 PowerShell Automation Projects**
 #### **👥 Active Directory Bulk User Creation**
